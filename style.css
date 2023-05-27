@@ -1,0 +1,29 @@
+.heading{
+width:100%;
+font-size:23px;
+margin:0px;
+}
+
+#start,#status,#no_of_objects{
+    font-size:17px;
+}
+
+body{
+    background-size: cover;
+}
+
+.footer{
+    position:fixed;
+    font-size:20px;
+    width:100%;
+    background-color:orange;
+    color: azure;
+    bottom:0px;
+    
+}
+
+#textbox{
+    width: 40%;
+    font-size: 20px;
+
+}
